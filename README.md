@@ -50,7 +50,7 @@ The full workflow is shown in the system framework image.
 
 
 ```text
-[system framework.png](https://github.com/omarbasha19/Driver-Monitoring-System/blob/main/system%20framework.png)
+[[system framework.png](https://github.com/omarbasha19/Driver-Monitoring-System/blob/main/system%20framework.png)](https://github.com/omarbasha19/Driver-Monitoring-System/blob/main/system%20framework.png?raw=true)
 ```
 
 ---
