@@ -50,7 +50,7 @@ The full workflow is shown in the system framework image.
 
 
 ```text
-![Driver Monitoring System Framework](./system%20framework.png)
+![Driver Monitoring System Framework](./system-framework.png)
 ```
 
 ---
