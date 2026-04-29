@@ -136,7 +136,7 @@ driver-monitoring-system/
 ├── environment.yml
 │
 ├── driver_monitoring_system_optimized.ipynb
-├
+│
 │
 ├── driver_imgs_list.csv
 │
@@ -205,9 +205,7 @@ It includes:
 - Inference testing
 - Interface testing
 
-## driver_monitoring_app.py
 
-Optional Python app for running the prediction interface outside the notebook.
 
 ## driver_imgs_list.csv
 
