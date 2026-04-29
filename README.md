@@ -50,7 +50,7 @@ The full workflow is shown in the system framework image.
 
 
 ```text
-system-framework.png
+system framework.png
 ```
 
 ---
