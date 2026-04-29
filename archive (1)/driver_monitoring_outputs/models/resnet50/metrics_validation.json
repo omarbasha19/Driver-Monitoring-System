@@ -1,0 +1,8 @@
+{
+  "model": "ResNet50 Test",
+  "accuracy": 0.8098249027237354,
+  "macro_f1": 0.798378678194301,
+  "macro_precision": 0.8238048940550069,
+  "macro_recall": 0.8065800991875749,
+  "use_tta": true
+}

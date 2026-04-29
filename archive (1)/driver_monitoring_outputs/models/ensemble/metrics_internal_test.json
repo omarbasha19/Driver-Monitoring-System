@@ -1,0 +1,10 @@
+{
+  "model": "Ensemble Test",
+  "accuracy": 0.8501945525291829,
+  "macro_f1": 0.8459671505629871,
+  "weights": {
+    "MobileNetV2": 0.33353884093711467,
+    "EfficientNetB0": 0.3128853267570901,
+    "ResNet50": 0.3535758323057953
+  }
+}
