@@ -886,49 +886,8 @@ To reproduce the project:
 8. Save evaluation reports.
 9. Keep preprocessing consistent.
 
----
 
-# Limitations
 
-This project predicts behavior from a single image.
-
-Current limitations:
-
-- It does not process live video by default.
-- It does not track driver behavior across time.
-- It depends on camera angle.
-- It depends on lighting quality.
-- Some classes can look visually similar.
-- Low-confidence predictions need manual review.
-- The model may need retraining for new camera setups.
-
-Similar classes can include:
-
-```text
-Texting right vs talking on phone right
-Texting left vs talking on phone left
-Safe driving vs talking to passenger
-```
-
----
-
-# Future Improvements
-
-Possible improvements:
-
-- Add live webcam inference
-- Add video inference
-- Add temporal smoothing across frames
-- Add Grad-CAM explainability
-- Add face detection
-- Add hand detection
-- Add phone object detection
-- Export model to TensorFlow Lite
-- Export model to ONNX
-- Add FastAPI backend
-- Add Docker support
-- Add cloud deployment
-- Add confidence calibration
 
 ---
 
@@ -936,13 +895,7 @@ Possible improvements:
 
 A TensorFlow-based driver monitoring system for distracted driving detection using the State Farm dataset. The project includes preprocessing, driver-based dataset splitting, transfer learning, ensemble inference, test-time augmentation, evaluation reports, and a Gradio prediction interface.
 
----
 
-# License
-
-This project is for educational and research use.
-
-Check the Kaggle competition rules before redistributing or reusing the dataset.
 
 ---
 
