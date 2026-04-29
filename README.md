@@ -45,13 +45,12 @@ Prediction Logging
 The full workflow is shown in the system framework image.
 
 ```markdown
-![Driver Monitoring System Framework](system framework.png)
+![Driver Monitoring System Framework](docs/system-framework.png)
 ```
 
-Put the framework image in this path.
 
 ```text
-docs/system-framework.png
+system-framework.png
 ```
 
 ---
