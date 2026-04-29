@@ -136,7 +136,7 @@ driver-monitoring-system/
 ├── environment.yml
 │
 ├── driver_monitoring_system_optimized.ipynb
-├── driver_monitoring_app.py
+├
 │
 ├── driver_imgs_list.csv
 │
