@@ -8,9 +8,9 @@ The project uses the State Farm Distracted Driver Detection dataset from Kaggle.
 
 Dataset page
 
-```text
+
 https://www.kaggle.com/competitions/state-farm-distracted-driver-detection/data
-```
+
 
 ---
 
@@ -48,10 +48,6 @@ The full workflow is shown in the system framework image.
 
 ![Driver Monitoring System Framework](./system-framework.png.png)
 
-
-```text
-![Driver Monitoring System Framework](./system-framework.png)
-```
 
 ---
 
